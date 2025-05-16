@@ -23,8 +23,8 @@ To write a C program to print the given string.
 ```
 /*
 C program to find the smallest among three numbers using Structure.
-Developed by: Sowjanya A
-RegisterNumber:  212222060250
+Developed by: Karthick Kannan SP
+RegisterNumber:  212222060114
 */
 #include<stdio.h>
 int main()
